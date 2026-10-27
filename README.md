@@ -3,8 +3,8 @@
 Prototipo funcional para registrar productos, crear pedidos y consultar/cambiar su estado.
 Desarrollado con **React + TypeScript + Vite** (HTML, CSS y JavaScript como base).
 
-**Integrantes:** _(nombre 1)_ y _(nombre 2)_
-**Ficha / Instructor:** _(completar)_
+**Integrantes:** _(Daniel Prieto)_ y _(Mariana Ramirez)_
+**Ficha / Instructor:** 
 
 ---
 
