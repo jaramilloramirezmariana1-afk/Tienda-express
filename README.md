@@ -1,10 +1,10 @@
-# 🛒 Tienda Express — Reto ADSO
+#  Tienda Express 
 
 Prototipo funcional para registrar productos, crear pedidos y consultar/cambiar su estado.
 Desarrollado con **React + TypeScript + Vite** (HTML, CSS y JavaScript como base).
 
 **Integrantes:** _(Daniel Prieto)_ y _(Mariana Ramirez)_
-**Ficha / Instructor:** 
+
 
 ---
 
@@ -49,9 +49,9 @@ Hoy registra sus ventas en una libreta y hojas de cálculo, lo que genera:
 
 ```
 ┌──────────────────────────────────────────────────────────┐
-│ 🛒 TIENDA EXPRESS                                        │
+│ TIENDA EXPRESS                                        │
 │ Gestión de productos y pedidos                           │
-│ [📦 2 productos] [🧾 0 pedidos] [⏳ 0 pendientes]        │
+│ [ 2 productos] [ 0 pedidos] [ 0 pendientes]        │
 ├──────────────────────────────────────────────────────────┤
 │ [ Productos ]  [ Pedidos ]                               │
 ├───────────────────┬──────────────────────────────────────┤
